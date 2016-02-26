@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">SimpleWeather</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">选择城市</string>
+    <string name="input_city">请输入城市名称</string>
+    <string name="city">热门城市</string>
+    <string name="beijing">北京</string>
+    <string name="temperature">10℃~13℃ </string>
+    <string name="qing">晴</string>
+    <string name="wind">东南风3~4级</string>
+    <string name="time">2011年11月30日（星期三）</string>
+    <string name="time1">农历冬月初六</string>
+    <string name="tianqi">天气预报</string>
+    <string name="say">建议着薄型套装或牛仔衫裤等春秋过渡装。年老体弱者宜着套装、夹克衫等。</string>
+    <string name="tomorrow">明天</string>
+    <string name="afterTomorrow">后天</string>
+    <string name="jinri">天气播报</string>
+
+</resources>
